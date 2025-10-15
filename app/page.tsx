@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main style={{padding: 24, fontFamily: 'system-ui'}}>
-      <h1>Đẹp+ đang dựng…</h1>
-      <p>Build test trên Vercel OK. Tiếp theo: thêm đăng nhập số điện thoại & nạp tiền.</p>
+    <main style={{ padding: 24, fontFamily: 'system-ui' }}>
+      <h1>Đẹp+ — Build OK ✅</h1>
+      <p>Mình sẽ dán lại giao diện cũ sau khi tách thành client component.</p>
     </main>
   );
 }
